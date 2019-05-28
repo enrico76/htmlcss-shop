@@ -1,0 +1,64 @@
+.contenitore {
+position: relative;
+/* width: auto;
+height: auto; */
+
+}
+.general {
+  position: absolute;
+  background-color: #d9d9d9;
+  width: 250px;
+  height: 300px;
+}
+.box1 {
+  /* position: absolute;
+  background-color: #d9d9d9;
+  width: 250px;
+  height: 300px; */
+  left: 15px;
+
+}
+.box2 {
+  /* position: absolute;
+  background-color: #d9d9d9;
+  width: 250px;
+  height: 300px; */
+  left: 350px;
+}
+.box3 {
+  /* position: absolute;
+  background-color: #d9d9d9;
+  width: 250px;
+  height: 300px; */
+  left: 685px;
+}
+/* .contenitore2 {
+  position: relative;
+
+} */
+.box4 {
+  /* position: absolute;
+  background-color: #d9d9d9; */
+  top: 350px;
+  /* width: 250px;
+  height: 300px; */
+  left: 15px;
+}
+.box5 {
+  /* position: absolute;
+  background-color: #d9d9d9; */
+  top: 350px;
+  /* width: 250px;
+  height: 300px; */
+  left: 350px;
+
+}
+.box6 {
+  /* position: absolute;
+  background-color: #d9d9d9; */
+  top: 350px;
+  /* width: 250px;
+  height: 300px; */
+  left: 685px;
+
+}
